@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-cline/ribbon-cline.iml" filepath="$PROJECT_DIR$/eureka-cline/ribbon-cline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-clinet/ribbon-clinet.iml" filepath="$PROJECT_DIR$/ribbon-clinet/ribbon-clinet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-2.0-eureka-server/springcloud-2.0-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-2.0-eureka-server/springcloud-2.0-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-2.0-eureka-server-9100/springcloud-2.0-eureka-server-9100.iml" filepath="$PROJECT_DIR$/springcloud-2.0-eureka-server-9100/springcloud-2.0-eureka-server-9100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-cline/springcloud-eureka-cline.iml" filepath="$PROJECT_DIR$/springcloud-eureka-cline/springcloud-eureka-cline.iml" />
+    </modules>
+  </component>
+</project>
